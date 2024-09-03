@@ -1,0 +1,3 @@
+Kérjen be egy számot 0 végjelig, és a számot azonnal irja bele egy fileba és annak a negyzetet is,
+számolja meg mennyi számot irtunk eddig összesen bele
+számolja ki a számok és a négyzewtek átlagát

@@ -1,0 +1,14 @@
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\bin\Debug\net8.0\Feladat0Szamok.exe
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\bin\Debug\net8.0\Feladat0Szamok.deps.json
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\bin\Debug\net8.0\Feladat0Szamok.runtimeconfig.json
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\bin\Debug\net8.0\Feladat0Szamok.dll
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\bin\Debug\net8.0\Feladat0Szamok.pdb
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.AssemblyInfo.cs
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.dll
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\refint\Feladat0Szamok.dll
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.pdb
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\Feladat0Szamok.genruntimeconfig.cache
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat0Szamok\Feladat0Szamok\obj\Debug\net8.0\ref\Feladat0Szamok.dll
