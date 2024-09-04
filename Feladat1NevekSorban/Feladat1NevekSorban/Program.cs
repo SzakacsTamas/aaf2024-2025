@@ -1,6 +1,8 @@
 ﻿StreamReader olvas = new StreamReader("nevek.txt");
 while (!olvas.EndOfStream)
 {
-    Console.WriteLine(olvas.ReadLine());
-    String.Concat(str.OrderBy(c => c))
+    
+    string line = olvas.ReadLine();
+    new string(line.OrderBy(c => c).ToArray());
+    Console.WriteLine(line);
 }
