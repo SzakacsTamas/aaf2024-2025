@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\bin\Debug\net8.0\Feladat1NevekSorban.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\bin\Debug\net8.0\Feladat1NevekSorban.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\bin\Debug\net8.0\Feladat1NevekSorban.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\bin\Debug\net8.0\Feladat1NevekSorban.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\bin\Debug\net8.0\Feladat1NevekSorban.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\refint\Feladat1NevekSorban.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\Feladat1NevekSorban.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat1NevekSorban\Feladat1NevekSorban\obj\Debug\net8.0\ref\Feladat1NevekSorban.dll

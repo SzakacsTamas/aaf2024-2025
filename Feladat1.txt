@@ -1,0 +1,7 @@
+Interneten keresni egy forrást ami a 100 leggyakoribb magyar keresztnevet tartalmazza
+szöveges fájlba belerakni,lementeni
+
+A neveket betölteni
+Nevek betűit sorbarendzezni 
+A rendezett neveket másik fájlba beleirni
+ÁDÁM --> ÁÁDM
