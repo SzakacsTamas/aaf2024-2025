@@ -1,0 +1,3 @@
+Fájlba vezetéknevek és keresztnevek keresése, férfi és női
+Generálni neveket véletlenszerűen, 1 vagy 2 keresztneve is lehet
+Eredmeny fájlba írása

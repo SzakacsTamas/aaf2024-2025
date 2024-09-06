@@ -1,0 +1,7 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\bin\Debug\Feladat2VezeteknevÉsKeresztnev.exe.config
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\bin\Debug\Feladat2VezeteknevÉsKeresztnev.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\bin\Debug\Feladat2VezeteknevÉsKeresztnev.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\obj\Debug\Feladat2VezeteknevÉsKeresztnev.csproj.AssemblyReference.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\obj\Debug\Feladat2VezeteknevÉsKeresztnev.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\obj\Debug\Feladat2VezeteknevÉsKeresztnev.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat2VezeteknevÉsKeresztnev\Feladat2VezeteknevÉsKeresztnev\obj\Debug\Feladat2VezeteknevÉsKeresztnev.pdb
