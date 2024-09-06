@@ -1,0 +1,7 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\bin\Debug\Feladat3VersSzavak.exe.config
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\bin\Debug\Feladat3VersSzavak.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\bin\Debug\Feladat3VersSzavak.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\obj\Debug\Feladat3VersSzavak.csproj.AssemblyReference.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\obj\Debug\Feladat3VersSzavak.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\obj\Debug\Feladat3VersSzavak.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat3VersSzavak\Feladat3VersSzavak\obj\Debug\Feladat3VersSzavak.pdb

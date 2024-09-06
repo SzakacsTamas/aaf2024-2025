@@ -1,0 +1,13 @@
+Hosszú könyv vagy vers (szöveg) keresése
+Szöveges fájlba lementeni
+
+Szószedet készítése
+Kigyűjteni melyik szavak fordulnak elő és az adott szavak hányszor
+
+Egy program ami generál egy szó láncot 
+Bekérni egy számot mennyi szó hosszú legyen,
+Olyan szóval kezdődön amivel végződik
+Ismétlés nélkül
+
+Betüszó generátor
+Bekérünk egy szót és vissza ad a program pár(3-6) változatot hogy ez minek lehet a rövidítése

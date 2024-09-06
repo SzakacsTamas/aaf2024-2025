@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat3VersSzavak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDB09E9-DF31-42F8-8586-5C1173EAFF97}|Feladat3VersSzavak\\Feladat3VersSzavak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat3versszavak\\feladat3versszavak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDB09E9-DF31-42F8-8586-5C1173EAFF97}|Feladat3VersSzavak\\Feladat3VersSzavak.csproj|solutionrelative:feladat3versszavak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat3VersSzavak\\Feladat3VersSzavak\\Program.cs",
+              "RelativeDocumentMoniker": "Feladat3VersSzavak\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat3VersSzavak\\Feladat3VersSzavak\\Program.cs",
+              "RelativeToolTip": "Feladat3VersSzavak\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:06:52.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
