@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\refint\Feladat4Szöveggenerátor.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\ref\Feladat4Szöveggenerátor.dll

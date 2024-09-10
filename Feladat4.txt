@@ -1,0 +1,4 @@
+Szöveggenerátor
+Szavakat TxT-be,
+Alanyok, számok, jelzők, igék, Állitmány
+Ebből száz sor
