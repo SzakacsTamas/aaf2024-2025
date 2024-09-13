@@ -1,0 +1,7 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\bin\Debug\Feladat5ObjektumOrientalt.exe.config
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\bin\Debug\Feladat5ObjektumOrientalt.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\bin\Debug\Feladat5ObjektumOrientalt.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\obj\Debug\Feladat5ObjektumOrientalt.csproj.AssemblyReference.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\obj\Debug\Feladat5ObjektumOrientalt.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\obj\Debug\Feladat5ObjektumOrientalt.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt\obj\Debug\Feladat5ObjektumOrientalt.pdb

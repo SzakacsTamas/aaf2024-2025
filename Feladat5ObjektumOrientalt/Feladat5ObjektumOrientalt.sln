@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feladat5ObjektumOrientalt", "Feladat5ObjektumOrientalt\Feladat5ObjektumOrientalt.csproj", "{CC44551C-DFF3-4C48-986B-51E777D9AD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC44551C-DFF3-4C48-986B-51E777D9AD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC44551C-DFF3-4C48-986B-51E777D9AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC44551C-DFF3-4C48-986B-51E777D9AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC44551C-DFF3-4C48-986B-51E777D9AD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5408225-C46E-4212-901E-465FFBD57A4F}
+	EndGlobalSection
+EndGlobal
