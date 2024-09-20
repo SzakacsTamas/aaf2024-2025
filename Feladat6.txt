@@ -1,0 +1,7 @@
+Nap 24 órájában kitalál egy hőmérséklet
+random számmal
+Az előzőhöz képest max 5 fokot változhat + - irányba
+Este csak csökkenhet
+Napp csak növekedhet
+Max40
+min10

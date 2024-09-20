@@ -1,0 +1,4 @@
+Objektum, Class ami egy ember névjegyét tartalmazza
+adatokat mi adjuk meg, formátumot is
+legyen egy ellenőrzés hogy melyik adatai hiányoznak
+legyenek kötelező adatok!
