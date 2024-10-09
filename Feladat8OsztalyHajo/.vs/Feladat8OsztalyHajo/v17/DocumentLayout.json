@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat8OsztalyHajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFD060F-C717-4BC5-A990-86CDEB47B8ED}|Feladat8OsztalyHajo\\Feladat8OsztalyHajo.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat8osztalyhajo\\feladat8osztalyhajo\\hajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFD060F-C717-4BC5-A990-86CDEB47B8ED}|Feladat8OsztalyHajo\\Feladat8OsztalyHajo.csproj|solutionrelative:feladat8osztalyhajo\\hajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFD060F-C717-4BC5-A990-86CDEB47B8ED}|Feladat8OsztalyHajo\\Feladat8OsztalyHajo.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat8osztalyhajo\\feladat8osztalyhajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFD060F-C717-4BC5-A990-86CDEB47B8ED}|Feladat8OsztalyHajo\\Feladat8OsztalyHajo.csproj|solutionrelative:feladat8osztalyhajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hajo.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat8OsztalyHajo\\Feladat8OsztalyHajo\\hajo.cs",
+              "RelativeDocumentMoniker": "Feladat8OsztalyHajo\\hajo.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat8OsztalyHajo\\Feladat8OsztalyHajo\\hajo.cs",
+              "RelativeToolTip": "Feladat8OsztalyHajo\\hajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:56:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat8OsztalyHajo\\Feladat8OsztalyHajo\\Program.cs",
+              "RelativeDocumentMoniker": "Feladat8OsztalyHajo\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat8OsztalyHajo\\Feladat8OsztalyHajo\\Program.cs",
+              "RelativeToolTip": "Feladat8OsztalyHajo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:52:27.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

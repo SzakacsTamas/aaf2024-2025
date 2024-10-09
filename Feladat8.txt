@@ -1,0 +1,7 @@
+Objektum INtercafece
+Hajokkal kapcsolatos
+INterface:
+megy
+fordul
+hangjelzés
+süllyed
