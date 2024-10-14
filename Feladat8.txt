@@ -5,3 +5,4 @@ megy
 fordul
 hangjelzés
 süllyed
+INtefacebol osztályt

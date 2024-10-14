@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat9LezerLoveszet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{033A57DC-8DCA-42F3-B71D-21E0B2B6EC59}|Feladat9LezerLoveszet\\Feladat9LezerLoveszet.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat9lezerloveszet\\feladat9lezerloveszet\\jatekoslovese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033A57DC-8DCA-42F3-B71D-21E0B2B6EC59}|Feladat9LezerLoveszet\\Feladat9LezerLoveszet.csproj|solutionrelative:feladat9lezerloveszet\\jatekoslovese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033A57DC-8DCA-42F3-B71D-21E0B2B6EC59}|Feladat9LezerLoveszet\\Feladat9LezerLoveszet.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat9lezerloveszet\\feladat9lezerloveszet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033A57DC-8DCA-42F3-B71D-21E0B2B6EC59}|Feladat9LezerLoveszet\\Feladat9LezerLoveszet.csproj|solutionrelative:feladat9lezerloveszet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JatekosLovese.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat9LezerLoveszet\\Feladat9LezerLoveszet\\JatekosLovese.cs",
+              "RelativeDocumentMoniker": "Feladat9LezerLoveszet\\JatekosLovese.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat9LezerLoveszet\\Feladat9LezerLoveszet\\JatekosLovese.cs",
+              "RelativeToolTip": "Feladat9LezerLoveszet\\JatekosLovese.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:52:29.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat9LezerLoveszet\\Feladat9LezerLoveszet\\Program.cs",
+              "RelativeDocumentMoniker": "Feladat9LezerLoveszet\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat9LezerLoveszet\\Feladat9LezerLoveszet\\Program.cs",
+              "RelativeToolTip": "Feladat9LezerLoveszet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:51:01.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
