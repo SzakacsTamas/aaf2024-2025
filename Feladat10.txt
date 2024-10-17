@@ -1,0 +1,5 @@
+Lista bovitese
+Egy bekeres amit egy listaban elhelyezünk
+1 adat bekerese
+3 adat bekerese
+Ellenőrizze ezt úgy, hogy egyik sem lehet üres és csak úgy lehet elküldeni az adatokat
