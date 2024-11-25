@@ -1,0 +1,15 @@
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\bin\Debug\net8.0\Feladat11Vonat.exe
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\bin\Debug\net8.0\Feladat11Vonat.deps.json
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\bin\Debug\net8.0\Feladat11Vonat.runtimeconfig.json
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\bin\Debug\net8.0\Feladat11Vonat.dll
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\bin\Debug\net8.0\Feladat11Vonat.pdb
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.AssemblyInfoInputs.cache
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.AssemblyInfo.cs
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.sourcelink.json
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.dll
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\refint\Feladat11Vonat.dll
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.pdb
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\Feladat11Vonat.genruntimeconfig.cache
+D:\munkakönyvtár\SzakacsTamas 12.C\aaf2024-2025\Feladat11Vonat\Feladat11Vonat\obj\Debug\net8.0\ref\Feladat11Vonat.dll
