@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\bin\Debug\net8.0\Feladat12igen.exe
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\bin\Debug\net8.0\Feladat12igen.deps.json
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\bin\Debug\net8.0\Feladat12igen.runtimeconfig.json
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\bin\Debug\net8.0\Feladat12igen.dll
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\bin\Debug\net8.0\Feladat12igen.pdb
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.AssemblyInfo.cs
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.sourcelink.json
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.dll
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\refint\Feladat12igen.dll
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.pdb
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\Feladat12igen.genruntimeconfig.cache
+D:\munkakönyvtár\Szakács Tamás 12.C\aaf2024-2025\Feladat12igen\Feladat12igen\obj\Debug\net8.0\ref\Feladat12igen.dll
