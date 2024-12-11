@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s\\aaf2024-2025\\Feladat12ClassroomGyakorl\u00E1s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34071A-CAE8-449B-811B-58837AD2EE1F}|Feladat12ClassroomGyakorl\u00E1s\\Feladat12ClassroomGyakorl\u00E1s.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s\\aaf2024-2025\\feladat12classroomgyakorl\u00E1s\\feladat12classroomgyakorl\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34071A-CAE8-449B-811B-58837AD2EE1F}|Feladat12ClassroomGyakorl\u00E1s\\Feladat12ClassroomGyakorl\u00E1s.csproj|solutionrelative:feladat12classroomgyakorl\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s\\aaf2024-2025\\Feladat12ClassroomGyakorl\u00E1s\\Feladat12ClassroomGyakorl\u00E1s\\Program.cs",
+              "RelativeDocumentMoniker": "Feladat12ClassroomGyakorl\u00E1s\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s\\aaf2024-2025\\Feladat12ClassroomGyakorl\u00E1s\\Feladat12ClassroomGyakorl\u00E1s\\Program.cs",
+              "RelativeToolTip": "Feladat12ClassroomGyakorl\u00E1s\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:53:09.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
