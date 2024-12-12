@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feladat12ClassroomGyakorlás")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd0742eb61c93fcdcc8f335a600b92dfdc68a7ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec43bd7bd44623c8c5207ec4576f7473a258b202")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feladat12ClassroomGyakorlás")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feladat12ClassroomGyakorlás")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
