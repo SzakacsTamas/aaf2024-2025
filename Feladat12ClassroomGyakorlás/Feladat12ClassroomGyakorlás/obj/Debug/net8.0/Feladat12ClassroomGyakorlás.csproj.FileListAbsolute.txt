@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.AssemblyInfo.cs
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.sourcelink.json
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\bin\Debug\net8.0\Feladat12ClassroomGyakorlás.exe
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\bin\Debug\net8.0\Feladat12ClassroomGyakorlás.deps.json
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\bin\Debug\net8.0\Feladat12ClassroomGyakorlás.runtimeconfig.json
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\bin\Debug\net8.0\Feladat12ClassroomGyakorlás.dll
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\bin\Debug\net8.0\Feladat12ClassroomGyakorlás.pdb
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.dll
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\refint\Feladat12ClassroomGyakorlás.dll
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.pdb
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\Feladat12ClassroomGyakorlás.genruntimeconfig.cache
+D:\munkakönyvtár\Szakács Tamás\aaf2024-2025\Feladat12ClassroomGyakorlás\Feladat12ClassroomGyakorlás\obj\Debug\net8.0\ref\Feladat12ClassroomGyakorlás.dll
