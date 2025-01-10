@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\bin\Debug\net8.0\OperatorFelüliras.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\bin\Debug\net8.0\OperatorFelüliras.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\bin\Debug\net8.0\OperatorFelüliras.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\bin\Debug\net8.0\OperatorFelüliras.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\bin\Debug\net8.0\OperatorFelüliras.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\refint\OperatorFelüliras.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\OperatorFelüliras.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\OperatorFelüliras\OperatorFelüliras\obj\Debug\net8.0\ref\OperatorFelüliras.dll

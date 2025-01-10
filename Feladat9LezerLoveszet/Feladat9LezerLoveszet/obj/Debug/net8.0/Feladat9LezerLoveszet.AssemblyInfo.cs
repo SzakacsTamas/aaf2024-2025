@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feladat9LezerLoveszet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6fa9286074aecf4c8d28e6bf121e29d2fa124b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d35b2a82213645464330ca9fdc117f58b2333cbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feladat9LezerLoveszet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feladat9LezerLoveszet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

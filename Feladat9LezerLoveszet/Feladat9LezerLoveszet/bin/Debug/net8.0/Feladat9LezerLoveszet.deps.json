@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Feladat9LezerLoveszet/1.0.0": {
+        "runtime": {
+          "Feladat9LezerLoveszet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feladat9LezerLoveszet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\bin\Debug\net8.0\Regularis.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\bin\Debug\net8.0\Regularis.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\bin\Debug\net8.0\Regularis.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\bin\Debug\net8.0\Regularis.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\bin\Debug\net8.0\Regularis.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\refint\Regularis.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\Regularis.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Regularis\Regularis\obj\Debug\net8.0\ref\Regularis.dll

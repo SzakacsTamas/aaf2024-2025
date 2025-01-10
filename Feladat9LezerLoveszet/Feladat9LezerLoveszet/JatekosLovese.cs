@@ -29,6 +29,12 @@ namespace Feladat9LezerLoveszet
                 yKordinata.Add(Convert.ToDouble(line.Split(";")[2]));
         
             }
+            for (int i = 0; i < nev.Count; i++) 
+            {
+                Console.WriteLine(xKordinata);
+            }
+
         }
+
     }
 }

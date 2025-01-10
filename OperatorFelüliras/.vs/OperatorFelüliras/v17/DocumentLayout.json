@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\OperatorFel\u00FCliras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8A89E9-98E9-4E13-86D8-910CB2463FC7}|OperatorFel\u00FCliras\\OperatorFel\u00FCliras.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\operatorfel\u00FCliras\\operatorfel\u00FCliras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8A89E9-98E9-4E13-86D8-910CB2463FC7}|OperatorFel\u00FCliras\\OperatorFel\u00FCliras.csproj|solutionrelative:operatorfel\u00FCliras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8A89E9-98E9-4E13-86D8-910CB2463FC7}|OperatorFel\u00FCliras\\OperatorFel\u00FCliras.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\operatorfel\u00FCliras\\operatorfel\u00FCliras\\penztarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8A89E9-98E9-4E13-86D8-910CB2463FC7}|OperatorFel\u00FCliras\\OperatorFel\u00FCliras.csproj|solutionrelative:operatorfel\u00FCliras\\penztarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "penztarca.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\OperatorFel\u00FCliras\\OperatorFel\u00FCliras\\penztarca.cs",
+              "RelativeDocumentMoniker": "OperatorFel\u00FCliras\\penztarca.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\OperatorFel\u00FCliras\\OperatorFel\u00FCliras\\penztarca.cs",
+              "RelativeToolTip": "OperatorFel\u00FCliras\\penztarca.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:54:27.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\OperatorFel\u00FCliras\\OperatorFel\u00FCliras\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorFel\u00FCliras\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\OperatorFel\u00FCliras\\OperatorFel\u00FCliras\\Program.cs",
+              "RelativeToolTip": "OperatorFel\u00FCliras\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:52:50.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

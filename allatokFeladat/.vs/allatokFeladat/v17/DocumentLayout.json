@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\allatokfeladat\\allatokfeladat\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|solutionrelative:allatokfeladat\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\allatokfeladat\\allatokfeladat\\csorda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|solutionrelative:allatokfeladat\\csorda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\allatokfeladat\\allatokfeladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|solutionrelative:allatokfeladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\allatokfeladat\\allatokfeladat\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE88539B-2204-4818-9D82-291636BF6B40}|allatokFeladat\\allatokFeladat.csproj|solutionrelative:allatokfeladat\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "farm.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\farm.cs",
+              "RelativeDocumentMoniker": "allatokFeladat\\farm.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\farm.cs",
+              "RelativeToolTip": "allatokFeladat\\farm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:07:14.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "csorda.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\csorda.cs",
+              "RelativeDocumentMoniker": "allatokFeladat\\csorda.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\csorda.cs",
+              "RelativeToolTip": "allatokFeladat\\csorda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:23:39.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "allat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\allat.cs",
+              "RelativeDocumentMoniker": "allatokFeladat\\allat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\allat.cs",
+              "RelativeToolTip": "allatokFeladat\\allat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:07:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\Program.cs",
+              "RelativeDocumentMoniker": "allatokFeladat\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\allatokFeladat\\allatokFeladat\\Program.cs",
+              "RelativeToolTip": "allatokFeladat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:06:05.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

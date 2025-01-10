@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\SzakacsTamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj": {}
+    "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\SzakacsTamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj": {
+    "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\SzakacsTamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj",
+        "projectUniqueName": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj",
         "projectName": "Feladat11Vonat",
-        "projectPath": "D:\\munkakönyvtár\\SzakacsTamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj",
+        "projectPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\Feladat11Vonat.csproj",
         "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\SzakacsTamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\obj\\",
+        "outputPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat11Vonat\\Feladat11Vonat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",

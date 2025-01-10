@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\bin\Debug\net8.0\Feladat9LezerLoveszet.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\bin\Debug\net8.0\Feladat9LezerLoveszet.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\bin\Debug\net8.0\Feladat9LezerLoveszet.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\bin\Debug\net8.0\Feladat9LezerLoveszet.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\bin\Debug\net8.0\Feladat9LezerLoveszet.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\refint\Feladat9LezerLoveszet.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\Feladat9LezerLoveszet.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat9LezerLoveszet\Feladat9LezerLoveszet\obj\Debug\net8.0\ref\Feladat9LezerLoveszet.dll

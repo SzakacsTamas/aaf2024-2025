@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat10wpflotto\\feladat10wpflotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|solutionrelative:feladat10wpflotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat10wpflotto\\feladat10wpflotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|solutionrelative:feladat10wpflotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat10wpflotto\\feladat10wpflotto\\sorsolas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|solutionrelative:feladat10wpflotto\\sorsolas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\feladat10wpflotto\\feladat10wpflotto\\sorsolas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8B049C1-A79B-41EC-A51F-ADB1057420B5}|Feladat10WPFLOTTO\\Feladat10WPFLOTTO.csproj|solutionrelative:feladat10wpflotto\\sorsolas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sorsolas.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\sorsolas.xaml.cs",
+              "RelativeDocumentMoniker": "Feladat10WPFLOTTO\\sorsolas.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\sorsolas.xaml.cs",
+              "RelativeToolTip": "Feladat10WPFLOTTO\\sorsolas.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAewCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:59:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sorsolas.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\sorsolas.xaml",
+              "RelativeDocumentMoniker": "Feladat10WPFLOTTO\\sorsolas.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\sorsolas.xaml",
+              "RelativeToolTip": "Feladat10WPFLOTTO\\sorsolas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T12:49:46.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Feladat10WPFLOTTO\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\MainWindow.xaml",
+              "RelativeToolTip": "Feladat10WPFLOTTO\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T12:42:29.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Feladat10WPFLOTTO\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Feladat10WPFLOTTO\\Feladat10WPFLOTTO\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Feladat10WPFLOTTO\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:42:27.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

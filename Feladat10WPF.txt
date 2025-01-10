@@ -1,0 +1,4 @@
+Olyan WPF alk. amely egy lottó sorsolást valósít meg.
+Van egy kezdő képernyő, amely tartalmazza sorsolt lottó számokat, 5 bekérés, illetve egy gombot amely ellenőrzi hogy eltaláltam e
+
+A 2. képernyőn vannak a lottoszamok ott sorsol 5 számot  és visszajuttatja az eredeti ablakba , és bezáródik

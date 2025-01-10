@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\bin\Debug\net8.0\allatokFeladat.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\bin\Debug\net8.0\allatokFeladat.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\bin\Debug\net8.0\allatokFeladat.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\bin\Debug\net8.0\allatokFeladat.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\bin\Debug\net8.0\allatokFeladat.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\refint\allatokFeladat.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\allatokFeladat.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\allatokFeladat\allatokFeladat\obj\Debug\net8.0\ref\allatokFeladat.dll
