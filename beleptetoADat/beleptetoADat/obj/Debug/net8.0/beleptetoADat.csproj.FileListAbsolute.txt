@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\bin\Debug\net8.0\beleptetoADat.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\bin\Debug\net8.0\beleptetoADat.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\bin\Debug\net8.0\beleptetoADat.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\bin\Debug\net8.0\beleptetoADat.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\bin\Debug\net8.0\beleptetoADat.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\refint\beleptetoADat.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\beleptetoADat.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\beleptetoADat\beleptetoADat\obj\Debug\net8.0\ref\beleptetoADat.dll
