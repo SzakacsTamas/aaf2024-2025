@@ -1,0 +1,14 @@
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\bin\Debug\net8.0\Dologzat.exe
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\bin\Debug\net8.0\Dologzat.deps.json
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\bin\Debug\net8.0\Dologzat.runtimeconfig.json
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\bin\Debug\net8.0\Dologzat.dll
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\bin\Debug\net8.0\Dologzat.pdb
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.AssemblyInfo.cs
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.dll
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\refint\Dologzat.dll
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.pdb
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\Dologzat.genruntimeconfig.cache
+D:\munkakönyvtár\Szakács Tamás 12.C\Dologzat\Dologzat\obj\Debug\net8.0\ref\Dologzat.dll

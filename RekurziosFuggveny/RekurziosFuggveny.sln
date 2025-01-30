@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurziosFuggveny", "RekurziosFuggveny\RekurziosFuggveny.csproj", "{33632A15-A6F0-4CC0-A299-B3DB8D76FABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33632A15-A6F0-4CC0-A299-B3DB8D76FABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33632A15-A6F0-4CC0-A299-B3DB8D76FABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33632A15-A6F0-4CC0-A299-B3DB8D76FABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33632A15-A6F0-4CC0-A299-B3DB8D76FABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AEC7AD8-93A8-4493-B9A1-3B726F6745FD}
+	EndGlobalSection
+EndGlobal
