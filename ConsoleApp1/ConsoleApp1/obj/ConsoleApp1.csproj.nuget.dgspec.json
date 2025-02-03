@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj": {}
+    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj": {
+    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj",
-        "projectName": "Viragagyasok",
-        "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj",
+        "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\obj\\",
+        "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",
