@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekurzio", "Rekurzio\Rekurzio.csproj", "{99B116E0-6768-4C7F-A75B-04D31214DC24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B116E0-6768-4C7F-A75B-04D31214DC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B116E0-6768-4C7F-A75B-04D31214DC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B116E0-6768-4C7F-A75B-04D31214DC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B116E0-6768-4C7F-A75B-04D31214DC24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271626C6-C3F2-4F05-B2A6-91E6BEE5CCAB}
+	EndGlobalSection
+EndGlobal

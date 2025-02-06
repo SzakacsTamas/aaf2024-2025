@@ -1,19 +1,53 @@
-﻿
-using Viragagyasok;
-List<adatok> viragok = new List<adatok>();
+﻿using viragAgyas;
 
+List<adatok> viragok = new List<adatok>();
 string[] sorok = File.ReadAllLines("felajanlas.txt");
 
+//1.feladat
 
-foreach (string s in sorok.Skip(1))
+
+
+viragok = sorok.Skip(1).Select(sor => new adatok(sor)).ToList();//skippeli az első elemet majd kiválasztja a sor adatait majd minden adatból csinál egy példányt amit egy listába rak
+
+for (int i = 0; i < viragok.Count; i++)
 {
-    viragok.Add(new adatok(s));
+    viragok[i].sorSzam = i + 1;
+}
+//2.feladat
+Console.WriteLine("2. feladat: A felajánlások száma {0}", viragok.Count);
+
+//3.feladat
+Console.WriteLine("3. feladat: A bejárat mindkét oldalán ültetők: ");
+Console.WriteLine(String.Join(", ", viragok.Where(e => e.kapuBentVan).Select(e => e.sorSzam)));
+
+//4.feladat
+Console.WriteLine("4.feladat\nAdja meg a ");
+int be = int.Parse(Console.ReadLine());
+int darabok = 0;
+string szin = "";
+for (int i = 0; i < viragok.Count; i++)
+{
+    if (viragok[i].benneVanEz(be))
+    {
+        darabok++;
+        if (szin == "")
+        {
+            Console.WriteLine();
+        }
+        szin = viragok[i].szin;
+
+        
+    }
 }
 
-//2.fealadat
-Console.WriteLine("2.feladat\n A felajánlások száma: {0}", viragok.Count);
-//3.Feladat
-Console.WriteLine("3.feladat\nA bejárat mindkét oldalán ültetők: ",);
-//hagyományos
 
-viragok =sorok.Skip(1).Select(sor => new adatok(sor)).ToList();
+Console.WriteLine("A felajánlások száma: {0}", darabok);
+
+if(darabok == 0)
+{
+    Console.WriteLine("Ezt az ágyást nem ültették");
+}
+else
+{
+
+}

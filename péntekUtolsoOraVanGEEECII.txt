@@ -1,0 +1,5 @@
+Kocka
+négy gomb legyen minden oldalán 1-1
+ha lenyonyjuk abba az irányba kusszon ki
+
+Rekurzio segítségével egy szöveg fordítottja

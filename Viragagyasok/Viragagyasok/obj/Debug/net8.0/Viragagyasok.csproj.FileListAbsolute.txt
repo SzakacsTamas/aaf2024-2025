@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\bin\Debug\net8.0\Viragagyasok.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\bin\Debug\net8.0\Viragagyasok.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\bin\Debug\net8.0\Viragagyasok.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\bin\Debug\net8.0\Viragagyasok.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\bin\Debug\net8.0\Viragagyasok.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\refint\Viragagyasok.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\Viragagyasok.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Viragagyasok\Viragagyasok\obj\Debug\net8.0\ref\Viragagyasok.dll

@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\bin\Debug\net8.0\RekurziovalSzovegForditas.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\bin\Debug\net8.0\RekurziovalSzovegForditas.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\bin\Debug\net8.0\RekurziovalSzovegForditas.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\bin\Debug\net8.0\RekurziovalSzovegForditas.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\bin\Debug\net8.0\RekurziovalSzovegForditas.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\refint\RekurziovalSzovegForditas.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\RekurziovalSzovegForditas.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RekurziovalSzovegForditas\RekurziovalSzovegForditas\obj\Debug\net8.0\ref\RekurziovalSzovegForditas.dll

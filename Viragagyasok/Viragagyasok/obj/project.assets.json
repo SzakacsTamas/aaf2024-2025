@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj",
       "projectName": "Viragagyasok",
-      "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Viragagyasok.csproj",
       "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",

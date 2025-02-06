@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\Viragagyasok\\",
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CC61DBC-58D4-46FA-882B-F66C537E32C9}|Viragagyasok\\Viragagyasok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\viragagyasok\\viragagyasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CC61DBC-58D4-46FA-882B-F66C537E32C9}|Viragagyasok\\Viragagyasok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\viragagyasok\\viragagyasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CC61DBC-58D4-46FA-882B-F66C537E32C9}|Viragagyasok\\Viragagyasok.csproj|solutionrelative:viragagyasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CC61DBC-58D4-46FA-882B-F66C537E32C9}|Viragagyasok\\Viragagyasok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\viragagyasok\\viragagyasok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CC61DBC-58D4-46FA-882B-F66C537E32C9}|Viragagyasok\\Viragagyasok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\viragagyasok\\viragagyasok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CC61DBC-58D4-46FA-882B-F66C537E32C9}|Viragagyasok\\Viragagyasok.csproj|solutionrelative:viragagyasok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,25 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Adatok.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Adatok.cs",
-              "RelativeDocumentMoniker": "Viragagyasok\\Adatok.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Adatok.cs",
-              "RelativeToolTip": "Viragagyasok\\Adatok.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Title": "adatok.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\adatok.cs",
+              "RelativeDocumentMoniker": "Viragagyasok\\adatok.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\adatok.cs",
+              "RelativeToolTip": "Viragagyasok\\adatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T12:21:03.415Z",
+              "WhenOpened": "2025-02-06T09:13:27.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Program.cs",
               "RelativeDocumentMoniker": "Viragagyasok\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Viragagyasok\\Viragagyasok\\Program.cs",
               "RelativeToolTip": "Viragagyasok\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAANAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T12:15:49.942Z",
               "EditorCaption": ""
