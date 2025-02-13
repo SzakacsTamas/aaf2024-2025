@@ -42,9 +42,11 @@ namespace RGB
             Console.WriteLine("oszlop: ");
             int oszlop = int.Parse(Console.ReadLine());
 
-            var talalat=pixelek.Where(pont=>pont.x ==oszlop && pont.y==sor).ToArray();
+            var talalat=pixelek.Where(pont=>pont.x ==oszlop && pont.y == sor).ToArray()[0];
 
-            Console.WriteLine("A képpont színe {0}");
+            Console.WriteLine("A képpont színe {0}",talalat.rgb);
+
+            var vilagosok
 
 
         }

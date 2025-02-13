@@ -23,5 +23,10 @@ namespace RGB
         {
             return $"RGB({r},{g},{b})";
         }
+
+        public bool vilagos() 
+        {
+            return r+g+b>600;
+        }
     }
 }
