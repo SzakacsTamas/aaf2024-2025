@@ -1,0 +1,7 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\bin\Debug\RGB.exe.config
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\bin\Debug\RGB.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\bin\Debug\RGB.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\obj\Debug\RGB.csproj.AssemblyReference.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\obj\Debug\RGB.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\obj\Debug\RGB.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\RGB\RGB\obj\Debug\RGB.pdb
