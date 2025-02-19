@@ -28,5 +28,9 @@ namespace RGB
         {
             return r+g+b>600;
         }
+        public int osszeg()
+        {
+            return r+g+b;
+        }
     }
 }

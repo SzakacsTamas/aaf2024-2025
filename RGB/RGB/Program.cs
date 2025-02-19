@@ -46,8 +46,32 @@ namespace RGB
 
             Console.WriteLine("A képpont színe {0}",talalat.rgb);
 
-            var vilagosok
+            var vilagosok = pixelek.Where(vilagos => vilagos.rgb.vilagos()).ToList();
+            Console.WriteLine($"3. Feladat: A vilagosok keppontok szama {vilagosok.Count}");
 
+            int legsevesebb = pixelek.Min(sotet => sotet.rgb.osszeg());
+            Console.WriteLine("4. Feladat: A legsotetebb pont RGB osszege: {0}", legsevesebb);
+
+            List<string> sotetek = pixelek
+                .Where(pont => pont.rgb.osszeg() == legsevesebb) //legsotetebb keppontok
+                .Select(pont => pont.rgb.ToString()) //csak szinek legyenek
+                .ToList(); //legyen lista a halmazbol
+
+            Console.WriteLine("A legsotetebb pixelek szine: ");
+
+            Console.WriteLine(string.Join("\n", sotetek));
+
+            static bool hatar(List<pixel> pontok, int sor, int elteres);
+            {
+                var uj = pixelek.Where(p => p.y == sor).ToList();
+                List<int> deltaB = new List<int>();
+                for (int i = 0; i < uj.Count - 1; i++)
+                {
+                    deltaB.Add(Math.Abs(uj[i].rgb.b - uj[i + 1].rgb.b));
+                }
+                return deltaB.Where(b => b > elteres).ToList().Count > 0;
+
+            }
 
         }
     }
