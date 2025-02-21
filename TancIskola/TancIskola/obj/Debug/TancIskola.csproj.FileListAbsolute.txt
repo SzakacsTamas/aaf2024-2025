@@ -1,0 +1,7 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\bin\Debug\TancIskola.exe.config
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\bin\Debug\TancIskola.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\bin\Debug\TancIskola.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\obj\Debug\TancIskola.csproj.AssemblyReference.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\obj\Debug\TancIskola.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\obj\Debug\TancIskola.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\TancIskola\TancIskola\obj\Debug\TancIskola.pdb

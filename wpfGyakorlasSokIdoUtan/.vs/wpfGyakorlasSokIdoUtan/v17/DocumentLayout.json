@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\wpfGyakorlasSokIdoUtan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED71E86-EB96-4275-800F-ACA592D59133}|wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\wpfgyakorlassokidoutan\\wpfgyakorlassokidoutan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED71E86-EB96-4275-800F-ACA592D59133}|wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan.csproj|solutionrelative:wpfgyakorlassokidoutan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED71E86-EB96-4275-800F-ACA592D59133}|wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\wpfgyakorlassokidoutan\\wpfgyakorlassokidoutan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED71E86-EB96-4275-800F-ACA592D59133}|wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan.csproj|solutionrelative:wpfgyakorlassokidoutan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpfGyakorlasSokIdoUtan\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan\\MainWindow.xaml",
+              "RelativeToolTip": "wpfGyakorlasSokIdoUtan\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T12:39:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpfGyakorlasSokIdoUtan\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\wpfGyakorlasSokIdoUtan\\wpfGyakorlasSokIdoUtan\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpfGyakorlasSokIdoUtan\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwCAAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:39:26.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
