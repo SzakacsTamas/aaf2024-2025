@@ -1,0 +1,34 @@
+﻿<Window x:Class="trollGombWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:trollGombWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="32*"/>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="230*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="2" HorizontalAlignment="Left" Height="266" Margin="5,83,0,0" VerticalAlignment="Top" Width="374"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="15*"/>
+                        <ColumnDefinition Width="8*"/>
+                        <ColumnDefinition Width="772*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="button" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" MouseMove="button_MouseMove" Width="110" Margin="662,338,0,0" Height="68" Grid.Column="2"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

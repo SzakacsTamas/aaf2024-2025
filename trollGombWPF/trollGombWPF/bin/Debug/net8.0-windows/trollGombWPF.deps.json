@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "trollGombWPF/1.0.0": {
+        "runtime": {
+          "trollGombWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trollGombWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
