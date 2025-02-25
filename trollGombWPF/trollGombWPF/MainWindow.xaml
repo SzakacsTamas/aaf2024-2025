@@ -16,6 +16,15 @@
                         <ColumnDefinition Width="230*"/>
                     </Grid.ColumnDefinitions>
                     <Grid Grid.Column="2" HorizontalAlignment="Left" Height="266" Margin="5,83,0,0" VerticalAlignment="Top" Width="374"/>
+                    <Button x:Name="button1" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="26,134,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button2" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="75,134,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button3" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="126,134,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button4" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="26,179,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button5" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="75,179,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button6" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="126,179,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button7" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="26,225,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button8" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="75,225,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="button9" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="126,225,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
                 </Grid>
             </TabItem>
             <TabItem Header="TabItem">
