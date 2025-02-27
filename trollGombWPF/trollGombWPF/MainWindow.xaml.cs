@@ -16,9 +16,19 @@ namespace trollGombWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        private List<Button> buttons;
+        private Button[,] buttonMatrix;
         public MainWindow()
         {
             InitializeComponent();
+            buttons = new List<Button> { button1, button2, button3, button4, button5, button6, button7, button8, button9 };
+            buttonMatrix = new Button[3, 3]
+{
+        { button1, button2, button3 },
+        { button4, button5, button6 },
+        { button7, button8, button9 }
+};
+
         }
 
         private void button_MouseMove(object sender, MouseEventArgs e)
@@ -33,7 +43,7 @@ namespace trollGombWPF
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             Button b= (Button)sender;
-            if (b.Content == "") 
+            if (b.Content == "")
             {
                 if (miVoltElobb == "O")
                 {
@@ -49,17 +59,58 @@ namespace trollGombWPF
                 }
             }
 
-            
+
+            if (EllenorizGyoztest())
+            {
+                MessageBox.Show($"{b.Content} nyert!");
+            }
+
+
         }
 
-        private void button1_Copy_Click(object sender, RoutedEventArgs e)
+        private void resetGomb_Click(object sender, RoutedEventArgs e)
         {
+            foreach (var button in buttons)
+            {
+                button.Content = "";
+                
+            }
 
+            miVoltElobb = "O"; // Visszaállítjuk az első játékos karakterét, ha szükséges
         }
-
-        private void button1_Copy1_Click(object sender, RoutedEventArgs e)
+        private bool EllenorizGyoztest()
         {
+            // Ellenőrizzük a sorokat
+            for (int i = 0; i < 3; i++)
+            {
+                if (buttonMatrix[i, 0].Content != "" && buttonMatrix[i, 0].Content == buttonMatrix[i, 1].Content && buttonMatrix[i, 1].Content == buttonMatrix[i, 2].Content)
+                {
+                    return true; // Van győztes
+                }
+            }
 
+            // Ellenőrizzük az oszlopokat
+            for (int j = 0; j < 3; j++)
+            {
+                if (buttonMatrix[0, j].Content != "" && buttonMatrix[0, j].Content == buttonMatrix[1, j].Content && buttonMatrix[1, j].Content == buttonMatrix[2, j].Content)
+                {
+                    return true; // Van győztes
+                }
+            }
+
+            // Ellenőrizzük az átlókat
+            if (buttonMatrix[0, 0].Content != "" && buttonMatrix[0, 0].Content == buttonMatrix[1, 1].Content && buttonMatrix[1, 1].Content == buttonMatrix[2, 2].Content)
+            {
+                return true; // Van győztes
+            }
+
+            if (buttonMatrix[0, 2].Content != "" && buttonMatrix[0, 2].Content == buttonMatrix[1, 1].Content && buttonMatrix[1, 1].Content == buttonMatrix[2, 0].Content)
+            {
+                return true; // Van győztes
+            }
+
+            return false; // Nincs győztes
         }
+
     }
 }

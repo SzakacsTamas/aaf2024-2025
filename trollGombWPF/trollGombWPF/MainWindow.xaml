@@ -25,6 +25,7 @@
                     <Button x:Name="button7" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="26,225,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
                     <Button x:Name="button8" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="75,225,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
                     <Button x:Name="button9" Grid.Column="2" Content="" HorizontalAlignment="Left" Margin="126,225,0,0" VerticalAlignment="Top" Height="37" Width="39" Click="button1_Click"/>
+                    <Button x:Name="resetGomb" Grid.Column="2" Content="Reset" HorizontalAlignment="Left" Margin="202,0,0,0" VerticalAlignment="Center" Height="87" Width="142" Click="resetGomb_Click"/>
                 </Grid>
             </TabItem>
             <TabItem Header="TabItem">
