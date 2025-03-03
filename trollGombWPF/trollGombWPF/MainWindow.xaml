@@ -38,6 +38,9 @@
                     <Button x:Name="button" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" MouseMove="button_MouseMove" Width="110" Margin="662,338,0,0" Height="68" Grid.Column="2"/>
                 </Grid>
             </TabItem>
+            <TabItem Header="TabItem">
+                
+            </TabItem>
         </TabControl>
 
     </Grid>

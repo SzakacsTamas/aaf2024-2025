@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\",
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\trollGombWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\trollgombwpf\\trollgombwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|solutionrelative:trollgombwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\trollgombwpf\\trollgombwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|solutionrelative:trollgombwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\trollgombwpf\\trollgombwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|solutionrelative:trollgombwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\trollgombwpf\\trollgombwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D73E25F9-6069-4E50-8810-27749639A01B}|trollGombWPF\\trollGombWPF.csproj|solutionrelative:trollgombwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "trollGombWPF\\MainWindow.xaml",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml",
               "RelativeToolTip": "trollGombWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-24T12:27:25.774Z",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "trollGombWPF\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "trollGombWPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAwwBkAAAABAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T12:27:23.509Z",
               "EditorCaption": ""

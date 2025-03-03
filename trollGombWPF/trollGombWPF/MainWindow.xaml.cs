@@ -111,6 +111,9 @@ namespace trollGombWPF
 
             return false; // Nincs győztes
         }
+        int x= 9;
+        int y= 9;
+
 
     }
 }
