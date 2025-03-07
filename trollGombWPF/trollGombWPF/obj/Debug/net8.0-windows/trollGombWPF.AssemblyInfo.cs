@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trollGombWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d5348659f854ba11997df6c8ffe0ec885f87a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc2ff11373b776fdaaa63a7dec54600a1d47e1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("trollGombWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trollGombWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

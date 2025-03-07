@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj": {}
+    "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj": {
+    "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj",
+        "projectUniqueName": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj",
         "projectName": "trollGombWPF",
-        "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj",
+        "projectPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\trollGombWPF.csproj",
         "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\obj\\",
+        "outputPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\trollGombWPF\\trollGombWPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",

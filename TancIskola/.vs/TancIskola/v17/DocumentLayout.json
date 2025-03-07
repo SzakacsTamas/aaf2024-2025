@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E16CD60F-E4A6-423F-A4C9-1B90EA2D7873}|TancIskola\\TancIskola.csproj|solutionrelative:tanciskola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16CD60F-E4A6-423F-A4C9-1B90EA2D7873}|TancIskola\\TancIskola.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\tanciskola\\tanciskola\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E16CD60F-E4A6-423F-A4C9-1B90EA2D7873}|TancIskola\\TancIskola.csproj|D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\TancIskola\\tanciskola\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16CD60F-E4A6-423F-A4C9-1B90EA2D7873}|TancIskola\\TancIskola.csproj|solutionrelative:tanciskola\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "TancIskola\\adatok.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:59:21.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:59:21.846Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "TancIskola\\Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\TancIskola\\TancIskola\\Program.cs",
               "RelativeToolTip": "TancIskola\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwDEAAAAzAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:53:44.041Z",
               "EditorCaption": ""
