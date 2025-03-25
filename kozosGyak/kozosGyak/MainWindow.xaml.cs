@@ -82,7 +82,10 @@ namespace kozosGyak
             {
                 for (int j = 0; j < aknaHely.GetLength(1); j++)
                 {
-                    gombok[k, j].Content = aknaHely[k, j];
+                    if (aknaHely[k, j] != 10)
+                    {
+                        gombok[k, j].Content = aknaHely[k, j];
+                    }
                 }
 
             }
@@ -90,11 +93,34 @@ namespace kozosGyak
 
         int aknaSzamol(int sor, int oszlop)
         {
+            int db = 0;
+            if (sor - 1 > 0 && oszlop - 1 > 0 && aknaHely[sor - 1, oszlop - 1] == 10) { db++; }
+            if (sor - 1 > 0 && oszlop >= 0 && aknaHely[sor - 1, oszlop] == 10) { db++; }
+            if (sor - 1 > 0 && oszlop + 1 > this.oszlop && aknaHely[sor - 1, oszlop + 1] == 10) { db++; }
 
+            if (sor >= 0 && oszlop - 1 > 0 && aknaHely[sor, oszlop - 1] == 10) { db++; }
+            if (sor >= 0 && oszlop + 1 > this.oszlop && aknaHely[sor, oszlop + 1] == 10) { db++; }
+
+            if (sor + 1 > 0 && oszlop - 1 > this.oszlop && aknaHely[sor + 1, oszlop - 1] == 10) { db++; }
+            if (sor + 1 > 0 && oszlop >= this.oszlop && aknaHely[sor + 1, oszlop] == 10) { db++; }
+            if (sor + 1 > 0 && oszlop + 1 > this.oszlop && aknaHely[sor + 1, oszlop + 1] == 10) { db++; }
+            return db;
         }
         private void kattinats(object sender, RoutedEventArgs e)
         {
+            Button button = sender as Button;
 
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int k = 0; k < gombok.GetLength(1); k++)
+                {
+                    if (gombok[i, k] == button)
+                    {
+                        gombok[i, k].Content = aknaHely[i, k];
+                        break;
+                    }
+                }
+            }
         }
     }
 }
