@@ -35,11 +35,15 @@ namespace SzinuszGorbe
         private void Canvas_Loaded(object sender, RoutedEventArgs e)
         {
             koordinataRajzol();
+            kor(0);
         }
         int r = 100;
+        int origaoY= 0;
+        int origoX=0;
 
         void koordinataRajzol()
         {
+            origaoY = Convert.ToInt32(Height /2);
             Line xTengely = new Line();
             xTengely.Stroke = Brushes.Black;
             xTengely.X1 = 0;
@@ -62,9 +66,9 @@ namespace SzinuszGorbe
                 Line vonalka= new Line();
                 vonalka.Stroke = Brushes.Black;
                 vonalka.X1 = i * 90 + yTengely.X1;
-                vonalka.Y1 = Height / 2 - 5;
+                vonalka.Y1 = origaoY - 5;
                 vonalka.X2 = i*90 + yTengely.X1;
-                vonalka.Y2 = Height / 2+5;
+                vonalka.Y2 = origaoY+5;
                 canvas.Children.Add(vonalka);
             }
             for (int i = 0;i < 5; i++)
@@ -83,6 +87,11 @@ namespace SzinuszGorbe
         {
             Ellipse kor = new Ellipse();
             kor.Stroke = Brushes.Black;
+            kor.Width = 2*r;
+            kor.Height = 2*r;
+            kor.Margin = new Thickness(x,origaoY,0,0);
+
+            canvas.Children.Add(kor);
         }
     }
 
