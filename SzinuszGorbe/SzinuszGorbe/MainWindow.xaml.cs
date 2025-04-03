@@ -14,36 +14,42 @@ namespace SzinuszGorbe
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+    //1.kordinata rendszer
+    //2.kör(vekony)
+    //3.fekete pont
+    //4.sugar
+    //5.magassag(piros)
+    //6.szinusz görbe
+    //7.korív(nagy)
+    //8.körív(kicsi)
+    //9.adattábla(szög egyebek)
+    //sine curve and the unit circle
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
-            //Sline Curve and the Unit Curve
-
-            //1:koordinata rendszer
-            //2:kor
-            //3:fekete pont
-            //4:sugár
-            //5:magasság(piros)
-            //6:szinusz gorbe
-            //7:körív(nagy)
-            //8:köriv(kicsi)
-            //9:adattábla(szög+egyebek)
         }
 
         private void Canvas_Loaded(object sender, RoutedEventArgs e)
         {
-            koordinataRajzol();
-            kor(0);
+            origoX = r * 1.1;
+            origoY = Height / 2;
+
+            kor(50);
+            sugar(50);
+            kordinataRajzol();
+            pirosVonal(50);
+            pont(50);
+
+
         }
         int r = 100;
-        int origaoY= 0;
-        int origoX=0;
-
-        void koordinataRajzol()
+        double origoY = 0;
+        double origoX = 0;
+        void kordinataRajzol()
         {
-            origaoY = Convert.ToInt32(Height /2);
             Line xTengely = new Line();
             xTengely.Stroke = Brushes.Black;
             xTengely.X1 = 0;
@@ -51,7 +57,7 @@ namespace SzinuszGorbe
             xTengely.X2 = Width;
             xTengely.Y2 = Height / 2;
 
-            canvas.Children.Add(xTengely);
+
 
             Line yTengely = new Line();
             yTengely.Stroke = Brushes.Black;
@@ -60,39 +66,86 @@ namespace SzinuszGorbe
             yTengely.X2 = r * 1.1;
             yTengely.Y2 = Height;
 
+
+            canvas.Children.Add(xTengely);
             canvas.Children.Add(yTengely);
+
             for (int i = 0; i < 5; i++)
-            {
-                Line vonalka= new Line();
-                vonalka.Stroke = Brushes.Black;
-                vonalka.X1 = i * 90 + yTengely.X1;
-                vonalka.Y1 = origaoY - 5;
-                vonalka.X2 = i*90 + yTengely.X1;
-                vonalka.Y2 = origaoY+5;
-                canvas.Children.Add(vonalka);
-            }
-            for (int i = 0;i < 5; i++)
             {
                 Line vonalka = new Line();
                 vonalka.Stroke = Brushes.Black;
-                vonalka.X1 = yTengely.X1-5;
-                vonalka.Y1 =  i*90;
-                vonalka.X2 = yTengely.X1 +5;
-                vonalka.Y2 = i * 90;
+                vonalka.X1 = i * 90 + yTengely.X1;
+                vonalka.Y1 = Height / 2 - 5;
+                vonalka.X2 = i * 90 + yTengely.X1;
+                vonalka.Y2 = Height / 2 + 5;
                 canvas.Children.Add(vonalka);
             }
 
+            for (int i = 0; i < 5; i++)
+            {
+                Line vonalka = new Line();
+                vonalka.Stroke = Brushes.Black;
+                vonalka.X1 = yTengely.X1 - 5;
+                vonalka.Y1 = i * 90 + (xTengely.Y1 - 180);
+                vonalka.X2 = yTengely.X1 + 5;
+                vonalka.Y2 = i * 90 + (xTengely.Y1 - 180);
+                canvas.Children.Add(vonalka);
+            }
         }
+        int korX = 0;
+        int korY = 0;
         void kor(int x)
         {
             Ellipse kor = new Ellipse();
-            kor.Stroke = Brushes.Black;
-            kor.Width = 2*r;
-            kor.Height = 2*r;
-            kor.Margin = new Thickness(x,origaoY,0,0);
+            kor.Stroke = Brushes.Blue;
+            kor.Height = 2 * r;
+            kor.Width = 2 * r;
+            kor.Margin = new Thickness(x - r + origoX - r, origoY - r, 0, 0);
 
+            korX = Convert.ToInt32(x - r + origoX);
+            korY = Convert.ToInt32(origoY);
             canvas.Children.Add(kor);
         }
-    }
 
+        void sugar(int x)
+        {
+
+            Line sugar = new Line();
+            sugar.Stroke = Brushes.Black;
+            sugar.StrokeThickness = 5;
+            sugar.X1 = korX;
+            sugar.Y1 = korY;
+            sugar.X2 = x + origoX;
+            sugar.Y2 = Math.Sin(x / 180.0 * Math.PI) * r + origoY;
+
+            canvas.Children.Add(sugar);
+        }
+
+        void pont(int x)
+        {
+            Ellipse pont = new Ellipse();
+            pont.Stroke = Brushes.Black;
+            pont.Height = r * .1;
+            pont.Width = r * .1;
+            pont.Margin = new Thickness(origoX - pont.Width / 2 + x, origoY - pont.Height / 2, 0, 0);
+            pont.Fill = Brushes.Black;
+
+            canvas.Children.Add(pont);
+        }
+
+        void pirosVonal(int x)
+        {
+            int magassag = (int)(Math.Sin(x / 180.0 * Math.PI) * r);
+
+            Line vonal = new Line();
+            vonal.Stroke = Brushes.Red;
+            vonal.StrokeThickness = 3;
+            vonal.X1 = x + origoX;
+            vonal.Y1 = origoY;
+            vonal.X2 = x + origoX;
+            vonal.Y2 = origoY - magassag;
+
+            canvas.Children.Add(vonal);
+        }
+    }
 }
