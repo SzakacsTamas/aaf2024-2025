@@ -14,14 +14,26 @@ namespace NyelvvizsgaKonzolApp
         {
             string[] vag=sor.Split(';');
             nyelv=vag[0];
+            int[] adatok=new int[vag.Length];
+            for(int i = 1; i < vag.Length; i++) 
+            {
+                adatok[i]=int.Parse(vag[i]);
+            }
+            segedKonstruktor(nyelv, evszamok, adatok);
         }
         public NyelvAdat(string nyelv, int[] adatok, int[] evszamok)
+        {
+            segedKonstruktor(nyelv, adatok, evszamok;
+        }
+        public void segedKonstruktor(string nyelv, int[]adatok, int[] evszamok)
         {
             this.nyelv = nyelv;
             for (int i = 0; i < adatok.Length; i++)
             {
-                this.vizsgak.Add(new EvAdat(evszamok[i],adatok[i]));
+                this.vizsgak.Add(new EvAdat(evszamok[i], adatok[i]));
             }
         }
+
+
     }
 }

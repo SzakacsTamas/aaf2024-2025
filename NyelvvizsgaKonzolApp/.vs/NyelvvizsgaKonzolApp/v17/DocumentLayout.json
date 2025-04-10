@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\",
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\nyelvvizsgakonzolapp\\nyelvvizsgakonzolapp\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\nyelvvizsgakonzolapp\\nyelvvizsgakonzolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|solutionrelative:nyelvvizsgakonzolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\nyelvvizsgakonzolapp\\nyelvvizsgakonzolapp\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|solutionrelative:nyelvvizsgakonzolapp\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\nyelvvizsgakonzolapp\\nyelvvizsgakonzolapp\\evadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\nyelvvizsgakonzolapp\\nyelvvizsgakonzolapp\\evadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|solutionrelative:nyelvvizsgakonzolapp\\evadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szak\u00E1cs tam\u00E1s 12.c\\aaf2024-2025\\nyelvvizsgakonzolapp\\nyelvvizsgakonzolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD17F82-ECC7-4915-9444-4C8C59508D2B}|NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj|solutionrelative:nyelvvizsgakonzolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NyelvAdat.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvAdat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvAdat.cs",
               "RelativeDocumentMoniker": "NyelvvizsgaKonzolApp\\NyelvAdat.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvAdat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvAdat.cs",
               "RelativeToolTip": "NyelvvizsgaKonzolApp\\NyelvAdat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:25:42.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EvAdat.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\EvAdat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\EvAdat.cs",
               "RelativeDocumentMoniker": "NyelvvizsgaKonzolApp\\EvAdat.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\EvAdat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\EvAdat.cs",
               "RelativeToolTip": "NyelvvizsgaKonzolApp\\EvAdat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T06:22:14.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T06:22:14.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\Program.cs",
               "RelativeDocumentMoniker": "NyelvvizsgaKonzolApp\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szak\u00E1cs Tam\u00E1s 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\Program.cs",
               "RelativeToolTip": "NyelvvizsgaKonzolApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:14:46.53Z",
               "EditorCaption": ""

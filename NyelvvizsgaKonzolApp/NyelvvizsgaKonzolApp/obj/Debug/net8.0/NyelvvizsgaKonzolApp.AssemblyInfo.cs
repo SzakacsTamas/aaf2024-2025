@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NyelvvizsgaKonzolApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+342e3a35113215f06ef5c47103fdd870c2cb5f9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6da87cea359dadc19d41b0a55324dfe6b45ca57")]
 [assembly: System.Reflection.AssemblyProductAttribute("NyelvvizsgaKonzolApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NyelvvizsgaKonzolApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

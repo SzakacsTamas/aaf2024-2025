@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj",
       "projectName": "NyelvvizsgaKonzolApp",
-      "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj",
       "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",
