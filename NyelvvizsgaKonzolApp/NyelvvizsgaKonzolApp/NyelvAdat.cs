@@ -23,7 +23,7 @@ namespace NyelvvizsgaKonzolApp
         }
         public NyelvAdat(string nyelv, int[] adatok, int[] evszamok)
         {
-            segedKonstruktor(nyelv, adatok, evszamok;
+            segedKonstruktor(nyelv, adatok, evszamok);
         }
         public void segedKonstruktor(string nyelv, int[]adatok, int[] evszamok)
         {
@@ -33,7 +33,17 @@ namespace NyelvvizsgaKonzolApp
                 this.vizsgak.Add(new EvAdat(evszamok[i], adatok[i]));
             }
         }
-
+        public int osszesVizsgazo()
+        {
+            /*
+            int osszeg = 0;
+            
+            for (int i = 0; i < this.nyelv.Length; i++)
+            {
+                osszeg += this.vizsgak[i]
+            }*/
+            return this.vizsgak.Sum(e => e.vizsgaDarab);
+        }
 
     }
 }
