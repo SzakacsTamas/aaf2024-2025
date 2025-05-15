@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace SzinuszGorbe
 {
@@ -31,17 +32,50 @@ namespace SzinuszGorbe
         {
             InitializeComponent();
         }
+        int x = 0;
+        bool novekszik= true;
+        void rajzol(object sender, EventArgs e)
+        {
+
+            origoX = r * 1.1;
+            origoY = Height / 2;
+            canvas.Children.Clear();
+            kordinataRajzol();
+
+
+            kor(x);
+            sugar(x);
+
+            pirosVonal(x);
+            pont(x);
+            if (novekszik)
+            {
+                x += 1;
+            }
+            else
+            {
+                x = -1;
+            }
+            if (x >= 360)
+            {
+                novekszik=false;
+            }
+            if(x <= 0)
+            {
+                novekszik=true;
+            }
+            
+        }
 
         private void Canvas_Loaded(object sender, RoutedEventArgs e)
         {
-            origoX = r * 1.1;
-            origoY = Height / 2;
 
-            kor(50);
-            sugar(50);
-            kordinataRajzol();
-            pirosVonal(50);
-            pont(50);
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Tick += rajzol;
+            timer.Interval = TimeSpan.FromMilliseconds(10);
+            timer.Start();
+
+
 
 
         }
@@ -96,11 +130,12 @@ namespace SzinuszGorbe
         int korY = 0;
         void kor(int x)
         {
+            int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
             Ellipse kor = new Ellipse();
             kor.Stroke = Brushes.Blue;
             kor.Height = 2 * r;
             kor.Width = 2 * r;
-            kor.Margin = new Thickness(x - r + origoX - r, origoY - r, 0, 0);
+            kor.Margin = new Thickness(origoX + x - dX - r, origoY - r, 0, 0);
 
             korX = Convert.ToInt32(x - r + origoX);
             korY = Convert.ToInt32(origoY);
@@ -109,15 +144,17 @@ namespace SzinuszGorbe
 
         void sugar(int x)
         {
+            int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
+            int magassag = (int)(Math.Sin(x / 180.0 * Math.PI) * r);
 
             Line sugar = new Line();
             sugar.Stroke = Brushes.Black;
-            sugar.StrokeThickness = 5;
-            sugar.X1 = korX;
-            sugar.Y1 = korY;
+            sugar.StrokeThickness = 3;
+            sugar.X1 = origoX + x - dX;
+            sugar.Y1 = origoY;
             sugar.X2 = x + origoX;
-            sugar.Y2 = Math.Sin(x / 180.0 * Math.PI) * r + origoY;
-
+            //sugar.Y2 = origoY-Math.Sin(x / 180.0 * Math.PI) * r;
+            sugar.Y2 = origoY - magassag;
             canvas.Children.Add(sugar);
         }
 
