@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\SzinuszGorbe\\SzinuszGorbe\\SzinuszGorbe.csproj": {}
+    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\SzinuszGorbe\\SzinuszGorbe\\SzinuszGorbe.csproj": {
+    "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\SzinuszGorbe\\SzinuszGorbe\\SzinuszGorbe.csproj",
-        "projectName": "SzinuszGorbe",
-        "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\SzinuszGorbe\\SzinuszGorbe\\SzinuszGorbe.csproj",
+        "projectUniqueName": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj",
+        "projectName": "NyelvvizsgaKonzolApp",
+        "projectPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp.csproj",
         "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\SzinuszGorbe\\SzinuszGorbe\\obj\\",
+        "outputPath": "D:\\munkakönyvtár\\Szakács Tamás 12.C\\aaf2024-2025\\NyelvvizsgaKonzolApp\\NyelvvizsgaKonzolApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -58,9 +58,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
