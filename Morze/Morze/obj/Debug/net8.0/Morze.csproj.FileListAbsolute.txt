@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\bin\Debug\net8.0\Morze.exe
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\bin\Debug\net8.0\Morze.deps.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\bin\Debug\net8.0\Morze.runtimeconfig.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\bin\Debug\net8.0\Morze.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\bin\Debug\net8.0\Morze.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.AssemblyInfo.cs
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.sourcelink.json
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\refint\Morze.dll
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.pdb
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\Morze.genruntimeconfig.cache
+D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Morze\Morze\obj\Debug\net8.0\ref\Morze.dll
