@@ -19,3 +19,24 @@ D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.
 D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.pdb
 D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.genruntimeconfig.cache
 D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\ref\Kutyak.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\bin\Debug\net8.0-windows\Kutyak.exe
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\bin\Debug\net8.0-windows\Kutyak.deps.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\bin\Debug\net8.0-windows\Kutyak.runtimeconfig.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\bin\Debug\net8.0-windows\Kutyak.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\bin\Debug\net8.0-windows\Kutyak.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak_MarkupCompile.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak_MarkupCompile.lref
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.g.resources
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.AssemblyInfoInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.AssemblyInfo.cs
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.csproj.CoreCompileInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.sourcelink.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\refint\Kutyak.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\Kutyak.genruntimeconfig.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Kutyak\Kutyak\obj\Debug\net8.0-windows\ref\Kutyak.dll

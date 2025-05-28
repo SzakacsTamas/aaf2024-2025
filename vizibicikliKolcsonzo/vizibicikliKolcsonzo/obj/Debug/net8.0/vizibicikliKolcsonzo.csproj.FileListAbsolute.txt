@@ -1,0 +1,15 @@
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\bin\Debug\net8.0\vizibicikliKolcsonzo.exe
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\bin\Debug\net8.0\vizibicikliKolcsonzo.deps.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\bin\Debug\net8.0\vizibicikliKolcsonzo.runtimeconfig.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\bin\Debug\net8.0\vizibicikliKolcsonzo.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\bin\Debug\net8.0\vizibicikliKolcsonzo.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.AssemblyInfoInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.AssemblyInfo.cs
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.sourcelink.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\refint\vizibicikliKolcsonzo.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\vizibicikliKolcsonzo.genruntimeconfig.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\vizibicikliKolcsonzo\vizibicikliKolcsonzo\obj\Debug\net8.0\ref\vizibicikliKolcsonzo.dll

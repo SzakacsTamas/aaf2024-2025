@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feladat4Szöveggenerátor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f83b19b1e14eb658321f745ffe166e59797489db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f73c006ad2ee6769cf4cf7cdd14d70f6abcd59c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feladat4Szöveggenerátor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feladat4Szöveggenerátor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

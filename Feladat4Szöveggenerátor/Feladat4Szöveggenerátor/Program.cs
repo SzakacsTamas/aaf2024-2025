@@ -17,9 +17,9 @@ while (!alany.EndOfStream)
 
     
 }
-foreach (string s in jelzok)
-    { Console.WriteLine(s); }
 
+
+StreamWriter mondatok= new StreamWriter("mondatok.txt");
 Random random = new Random();
 for (int i = 0; i < alanyok.Count; i++)
 {
@@ -27,8 +27,8 @@ for (int i = 0; i < alanyok.Count; i++)
     int masodik = random.Next(alanyok.Count);
     int harmadik = random.Next(igek.Count);
     int negyedik = random.Next(helyek.Count);
-    Console.WriteLine("A(Az) " + jelzok[elso] +" "+ alanyok[masodik]+" "+ igek[harmadik]+" " + helyek[negyedik]+".");
+    mondatok.WriteLine("A(z) " + jelzok[elso] +" "+ alanyok[masodik]+" "+ igek[harmadik]+" " + helyek[negyedik]+".");
 
 }
-
+mondatok.Close();
 alany.Close();

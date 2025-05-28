@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\vizibicikliKolcsonzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57AD414-AC35-4605-9E58-6F2CC3B0AF7A}|vizibicikliKolcsonzo\\vizibicikliKolcsonzo.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\vizibiciklikolcsonzo\\vizibiciklikolcsonzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57AD414-AC35-4605-9E58-6F2CC3B0AF7A}|vizibicikliKolcsonzo\\vizibicikliKolcsonzo.csproj|solutionrelative:vizibiciklikolcsonzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57AD414-AC35-4605-9E58-6F2CC3B0AF7A}|vizibicikliKolcsonzo\\vizibicikliKolcsonzo.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\vizibiciklikolcsonzo\\vizibiciklikolcsonzo\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57AD414-AC35-4605-9E58-6F2CC3B0AF7A}|vizibicikliKolcsonzo\\vizibicikliKolcsonzo.csproj|solutionrelative:vizibiciklikolcsonzo\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\vizibicikliKolcsonzo\\vizibicikliKolcsonzo\\adatok.cs",
+              "RelativeDocumentMoniker": "vizibicikliKolcsonzo\\adatok.cs",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\vizibicikliKolcsonzo\\vizibicikliKolcsonzo\\adatok.cs",
+              "RelativeToolTip": "vizibicikliKolcsonzo\\adatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:33:04.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\vizibicikliKolcsonzo\\vizibicikliKolcsonzo\\Program.cs",
+              "RelativeDocumentMoniker": "vizibicikliKolcsonzo\\Program.cs",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\vizibicikliKolcsonzo\\vizibicikliKolcsonzo\\Program.cs",
+              "RelativeToolTip": "vizibicikliKolcsonzo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:32:48.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

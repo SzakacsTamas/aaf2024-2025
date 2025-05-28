@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj": {}
+    "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj": {
+    "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj",
+        "projectUniqueName": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj",
         "projectName": "Kutyak",
-        "projectPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj",
-        "packagesPath": "C:\\Users\\szakacst21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\obj\\",
+        "projectPath": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\Kutyak.csproj",
+        "packagesPath": "C:\\Users\\szakt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\szakacst21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\szakt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

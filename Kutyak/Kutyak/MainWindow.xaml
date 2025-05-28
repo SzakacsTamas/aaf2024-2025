@@ -6,10 +6,59 @@
         xmlns:local="clr-namespace:Kutyak"
         mc:Ignorable="d"
         Title="Kutyák" Height="450" Width="800">
-    <Grid x:Name="loaded" Loaded="loaded_Loaded">
-        <Button x:Name="button" Content="3. Feladat" HorizontalAlignment="Left" Margin="109,103,0,0" VerticalAlignment="Top" Click="button_Click"/>
-        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="306,100,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="label1" Content="Kutya nevek száma:" HorizontalAlignment="Left" Margin="170,100,0,0" VerticalAlignment="Top"/>
+    <Grid x:Name="loaded" Loaded="loaded_Loaded" Margin="0,0,0,-198">
+        <Button x:Name="button" Content="3. Feladat" HorizontalAlignment="Left" Margin="30,47,0,0" VerticalAlignment="Top" Click="button_Click" Height="76" Width="134"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="292,72,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label x:Name="label1" Content="Kutya nevek száma:" HorizontalAlignment="Left" Margin="174,72,0,0" VerticalAlignment="Top"/>
 
+        <Label Content="Átlag életkor" HorizontalAlignment="Left" Margin="180,146,0,0" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="_6Display" Content="" HorizontalAlignment="Left" Margin="275,143,0,0" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="_6" Content="6.feladat" HorizontalAlignment="Left" Height="67" Margin="30,128,0,0" VerticalAlignment="Top" Width="134" Click="_6_Click"/>
+        <Button x:Name="_7" Content="7.feladat" HorizontalAlignment="Left" Height="59" Margin="30,200,0,0" VerticalAlignment="Top" Width="134" Click="_7_Click"/>
+        <Label Content="Valami idős kutya" HorizontalAlignment="Left" Margin="181,219,0,0" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.38,0.522">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.03"/>
+                    <TranslateTransform X="0.03" Y="0.479"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="_7Display" Content="" HorizontalAlignment="Left" Margin="299,197,0,0" VerticalAlignment="Top" Width="223" RenderTransformOrigin="0.5,0.5" Height="70" FontSize="18">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="_8" Content="8.feladat" HorizontalAlignment="Left" Height="61" Margin="30,264,0,0" VerticalAlignment="Top" Width="134" Click="_8_Click"/>
+        <Label Content="Dátum" HorizontalAlignment="Left" Height="23" Margin="169,280,0,0" VerticalAlignment="Top" Width="51"/>
+        <DatePicker x:Name="picker" HorizontalAlignment="Left" Height="37" Margin="232,280,0,0" VerticalAlignment="Top" Width="100" DisplayDate="2018-01-10" SelectedDateFormat="Short" SelectedDate="2018-01-10"/>
+        <ListBox x:Name="_8ListaDisplay" HorizontalAlignment="Left" Height="84" Margin="344,256,0,0" VerticalAlignment="Top" Width="194" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Button x:Name="_9" Content="9.feladat" HorizontalAlignment="Left" Height="61" Margin="30,330,0,0" VerticalAlignment="Top" Width="134" Click="_9_Click"/>
+        <Label Content="Legjobban leterhelt nap" HorizontalAlignment="Left" Height="25" Margin="174,343,0,0" VerticalAlignment="Top" Width="144"/>
+        <Label x:Name="_9Display" Content="" HorizontalAlignment="Left" Height="25" Margin="323,345,0,0" VerticalAlignment="Top" Width="144"/>
     </Grid>
 </Window>

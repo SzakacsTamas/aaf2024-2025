@@ -54,5 +54,32 @@ namespace Kutyak
         {
             label.Content = kutyaNevek.Count;
         }
+        private void _6_Click(object sender, RoutedEventArgs e)
+        {
+            List<int> korok = new List<int>();
+            korok = kutyak.Select(x => x.kor).ToList();
+            _6Display.Content = Math.Round(korok.Average(), 2);
+        }
+        private void _7_Click(object sender, RoutedEventArgs e)
+        {
+            List<int> korok = new List<int>();
+            korok = kutyak.Select(x => x.kor).ToList();
+            int maxKor = korok.Max();
+            Kutya idosKutya = kutyak.Where(x => x.kor == maxKor).First();
+            _7Display.Content = idosKutya.nev.name + ", " + idosKutya.fajta.nev;
+        }
+
+        private void _8_Click(object sender, RoutedEventArgs e)
+        {
+            var azNap = kutyak.Where(x => x.datum == DateOnly.FromDateTime((DateTime)picker.SelectedDate)).GroupBy(x => x.fajta.nev).Select(x => (x.Key, x.Count())).ToList();
+
+            _8ListaDisplay.ItemsSource = azNap.Select(x => x.Key + " " + x.Item2 + " kutya");
+        }
+
+        private void _9_Click(object sender, RoutedEventArgs e)
+        {
+            var adatok = kutyak.GroupBy(x => x.datum).Select(x => (x.Count())).ToList();
+            _9Display.Content = kutyak.GroupBy(x => x.datum).Where(x => x.Count() == adatok.Max()).Select(x => x.Key).First().ToShortDateString();
+        }
     }
 }

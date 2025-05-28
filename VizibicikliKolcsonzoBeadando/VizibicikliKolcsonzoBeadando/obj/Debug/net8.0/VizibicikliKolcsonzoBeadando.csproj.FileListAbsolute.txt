@@ -1,0 +1,15 @@
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\bin\Debug\net8.0\VizibicikliKolcsonzoBeadando.exe
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\bin\Debug\net8.0\VizibicikliKolcsonzoBeadando.deps.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\bin\Debug\net8.0\VizibicikliKolcsonzoBeadando.runtimeconfig.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\bin\Debug\net8.0\VizibicikliKolcsonzoBeadando.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\bin\Debug\net8.0\VizibicikliKolcsonzoBeadando.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.AssemblyInfoInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.AssemblyInfo.cs
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.csproj.CoreCompileInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.sourcelink.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\refint\VizibicikliKolcsonzoBeadando.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\VizibicikliKolcsonzoBeadando.genruntimeconfig.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\VizibicikliKolcsonzoBeadando\VizibicikliKolcsonzoBeadando\obj\Debug\net8.0\ref\VizibicikliKolcsonzoBeadando.dll

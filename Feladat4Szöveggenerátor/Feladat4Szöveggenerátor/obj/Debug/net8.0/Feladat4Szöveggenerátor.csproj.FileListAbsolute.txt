@@ -13,3 +13,18 @@ D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Fel
 D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.pdb
 D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.genruntimeconfig.cache
 D:\munkakönyvtár\Szakacs Tamas 12.C\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\ref\Feladat4Szöveggenerátor.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.exe
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.deps.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.runtimeconfig.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\bin\Debug\net8.0\Feladat4Szöveggenerátor.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.AssemblyInfoInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.AssemblyInfo.cs
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.csproj.CoreCompileInputs.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.sourcelink.json
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\refint\Feladat4Szöveggenerátor.dll
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.pdb
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\Feladat4Szöveggenerátor.genruntimeconfig.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat4Szöveggenerátor\Feladat4Szöveggenerátor\obj\Debug\net8.0\ref\Feladat4Szöveggenerátor.dll

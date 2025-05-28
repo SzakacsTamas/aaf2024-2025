@@ -3,6 +3,7 @@ while (!olvas.EndOfStream)
 {
     
     string line = olvas.ReadLine();
-    new string(line.OrderBy(c => c).ToArray());
+    var sortedName = new string(line.OrderBy(c => c).ToArray());
     Console.WriteLine(line);
+    
 }

@@ -1,0 +1,100 @@
+A(z) Savanyú Robin Hood Vezet Az előszobában.
+A(z) Meleg Alexander the Great Kérdez A ház előtt.
+A(z) Szabályos Nikola Tesla Zene A könyvespolcon.
+A(z) Hangos Tony Stark (Iron Man) Néz A könyvespolcon.
+A(z) Friss Odüsszeusz Ültet A folyó mellett.
+A(z) Hangos Tony Montana Kipróbál A játszótéren.
+A(z) Világos J. R. R. Tolkien Vacsorázik A falak között.
+A(z) Hatékony Dexter Morgan Hoz Az étteremben.
+A(z) Jelentős Buffy Summers (Buffy, a vámpírok réme) Tölt A hálószobában.
+A(z) Egészséges John Wick Kér A könyvespolc tetején.
+A(z) Savanyú Anakin Skywalker Összehasonlít A folyóparton.
+A(z) Kisebb Alice (Alíz Csodaországban) Vezet A konyhában.
+A(z) Beteg Chewbacca Készít Az ablakkeretben.
+A(z) Kicsiny LeBron James Fejleszt A bolt előterében.
+A(z) Fiatal Neo (Mátrix) Zár A szék alatt.
+A(z) Koszos Albus Dumbledore Megoszt Az alagsorban.
+A(z) Sűrű Sherlock Holmes Beszél A tengerparton.
+A(z) Szomorú Steve Jobs Tervez A házban.
+A(z) Egészséges Princess Leia Ültet A könyvtárban.
+A(z) Gazdag Simba (Az Oroszlánkirály) Tanulmányoz A hálószobában.
+A(z) Kényelmetlen Chewbacca Fut Az épületben.
+A(z) Beteg Spock (Star Trek) Alszik Az asztal mellett.
+A(z) Öreg Rick Grimes (The Walking Dead) Szerkeszt Az autó ülésén.
+A(z) Olcsó Fox Mulder (X-akták) Táncol Az asztalon.
+A(z) Hatékony Gollum Nevet A lépcsőházban.
+A(z) Különleges Winston Churchill Vezet Az út közepén.
+A(z) Korai Gollum Utazik A lépcsőház szélén.
+A(z) Modern Albert Einstein Válaszol A játszótér közepén.
+A(z) Rövid Jon Snow Átír A fotelben.
+A(z) Fekete Morgana le Fay Kertészkedik A pulton.
+A(z) Alacsony Hercule Poirot Vezet A teraszon.
+A(z) Ugyanolyan Julius Caesar Módosít A könyvespolc tetején.
+A(z) Szögletes Severus Snape Alszik A kert közepén.
+A(z) Buta Peter Parker (Pókember) Tervez Az ablak mellett.
+A(z) Drága Neo (Mátrix) Tanulmányoz A templomban.
+A(z) Átlagos Buffy Summers (Buffy, a vámpírok réme) Tanul A tengerparton.
+A(z) Egyforma Scarlett O’Hara (Elfújta a szél) Tanít A ház előtt.
+A(z) Fekete Sherlock Holmes Pihen A konyha szögletében.
+A(z) Kisebb Aragorn (A Gyűrűk Ura) Összegyűjt Az épület bejáratánál.
+A(z) Különleges Sherlock Holmes Iszik A bolt mellett.
+A(z) Hiányos Hercule Poirot Eszik A bolt hátsó részében.
+A(z) Különböző Aragorn (A Gyűrűk Ura) Hív A reptéren.
+A(z) Tisztán Nikola Tesla Tölt A bolt előterében.
+A(z) Csúnya Bruce Lee Alszik A bolt hátsó részében.
+A(z) Egészséges Vito Corleone Néz Az épület bejáratánál.
+A(z) Kisebb Gandalf Tanulmányoz A padlón.
+A(z) Boldog Athena Rendel Az asztalon.
+A(z) Hatástalan Vito Corleone Képzel A lépcsőházban.
+A(z) Piros Chewbacca Vacsorázik A könyvespolcon.
+A(z) Olcsó Morgana le Fay Megoszt A bolt előterében.
+A(z) Rugalmas Simba (Az Oroszlánkirály) Zene Az autó csomagtartójában.
+A(z) Hasonló Gal Gadot Ölel A kert közepén.
+A(z) Okos Captain Jack Harkness (Doctor Who) Kérdez Az autó csomagtartójában.
+A(z) Kényelmetlen Sarah Connor Ültet A hálószobában.
+A(z) Napos Julius K. K. Rowling Tölt A reptéren.
+A(z) Fehér Mahatma Gandhi Ültet Az autó ülésén.
+A(z) Gazdag Severus Snape Átad Az épület mellett.
+A(z) Kerek Aragorn (A Gyűrűk Ura) Meghatároz A reptéren.
+A(z) Különböző Winston Churchill Állít Az asztal mellett.
+A(z) Puha Jules Verne Kérdez Az út mentén.
+A(z) Régimódi Neo (Mátrix) Csókol Az udvaron.
+A(z) Keserű Albert Einstein Választ Az ablak előtt.
+A(z) Buta Marilyn Monroe Gyűjt A laboratóriumban.
+A(z) Kék Napoleon Bonaparte Dönt Az alagsorban.
+A(z) Felszínes Batman Elmond A folyóparton.
+A(z) Üres Batman Elmond Az üveg mögött.
+A(z) Esős Vito Corleone Kiszámít A kert közepén.
+A(z) Zöld Abraham Lincoln Válaszol Az épület hátsó részén.
+A(z) Kényelmetlen Albert Einstein Módosít A kert közepén.
+A(z) Hatástalan Bruce Lee Fest A falak között.
+A(z) Divatos Cersei Lannister Indít Az ajtó előtt.
+A(z) Hatékony Sherlock Holmes Átír Az előszobában.
+A(z) Öreg Gal Gadot Hív Az udvaron.
+A(z) Szabályos Lancelot Tanulmányoz A folyóparton.
+A(z) Gazdag Ivanhoe Kiszámít Az ágy alatt.
+A(z) Hosszú Morgana le Fay Fejleszt Az alagsorban.
+A(z) Hideg Nikola Tesla Fejez A szobában.
+A(z) Részletes Gollum Összehasonlít Az udvar közepén.
+A(z) Késői Vito Corleone Szerkeszt Az épület tetején.
+A(z) Széles Gandalf Gyűjt A bolt előterében.
+A(z) Puha Odüsszeusz Nyit Az épület hátsó részén.
+A(z) Teljes Lara Croft Nevet Az uszodában.
+A(z) Egyforma Jon Snow Elmond A kert közepén.
+A(z) Friss Marilyn Monroe Tanul Az út szélén.
+A(z) Új Achilles Énekel Az erkélyen.
+A(z) Öreg Captain America Vásárol Az erdő szélén.
+A(z) Friss Julius Caesar Rajzol Az erdőben.
+A(z) Koszos Julius Caesar Mosogat A kávézóban.
+A(z) Hatékony Cersei Lannister Hallgat A fürdőszobában.
+A(z) Drága Frodo Baggins Meghatároz A lépcsőház szélén.
+A(z) Szép Vito Corleone Reggelizik A templomban.
+A(z) Friss Lancelot Énekel Az épület bejáratánál.
+A(z) Üres Hulk Épít A bolt mellett.
+A(z) Kicsiny Indiana Jones Köszön A bolt hátsó részében.
+A(z) Puha Vito Corleone Iszik Az épület oldalán.
+A(z) Magas H. P. Lovecraft Hagy Az épületben.
+A(z) Helyes Captain America Készít Az utcán.
+A(z) Magas Abraham Lincoln Fest Az üveg mögött.
+A(z) Öreg Severus Snape Fárad A tv előtt.
+A(z) Szomorú Rocky Balboa Átír A teraszon.

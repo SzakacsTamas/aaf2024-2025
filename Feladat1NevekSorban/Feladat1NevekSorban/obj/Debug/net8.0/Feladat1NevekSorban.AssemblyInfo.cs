@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feladat1NevekSorban")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b8e9e8a2e093bc613303001662e39b48e5fe4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bebd3b45feeaf65ce37aed78b54eff253e696377")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feladat1NevekSorban")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feladat1NevekSorban")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

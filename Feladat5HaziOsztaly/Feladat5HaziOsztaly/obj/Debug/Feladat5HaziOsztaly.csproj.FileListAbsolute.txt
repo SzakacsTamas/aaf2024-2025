@@ -1,0 +1,2 @@
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat5HaziOsztaly\Feladat5HaziOsztaly\obj\Debug\Feladat5HaziOsztaly.csproj.AssemblyReference.cache
+C:\Users\szakt\Desktop\Suli2024.2025\aaf2024-2025\Feladat5HaziOsztaly\Feladat5HaziOsztaly\obj\Debug\Feladat5HaziOsztaly.csproj.CoreCompileInputs.cache

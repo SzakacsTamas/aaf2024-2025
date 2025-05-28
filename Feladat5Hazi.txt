@@ -1,1 +1,1 @@
-Van házi
+HF: osztály (konstruktor, mezo, property, fuggveny) min 1-1

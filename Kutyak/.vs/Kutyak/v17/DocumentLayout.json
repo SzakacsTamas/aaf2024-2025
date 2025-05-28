@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\",
+  "WorkspaceRootPath": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\kutyak\\kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\kutyak\\kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\kutyak\\kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\kutyak\\kutyak\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\kutyak\\kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\kutyak\\kutyak\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\kutyak\\kutyak\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\kutyak\\kutyak\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\szakacs tamas 12.c\\aaf2024-2025\\kutyak\\kutyak\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|c:\\users\\szakt\\desktop\\suli2024.2025\\aaf2024-2025\\kutyak\\kutyak\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B09DB55-1915-43C3-9A8A-B3CBA3AE3FE1}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Kutya.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\Kutya.cs",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\Kutya.cs",
               "RelativeDocumentMoniker": "Kutyak\\Kutya.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\Kutya.cs",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\Kutya.cs",
               "RelativeToolTip": "Kutyak\\Kutya.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T07:03:02.102Z",
               "EditorCaption": ""
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "KutyaNev.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaNev.cs",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaNev.cs",
               "RelativeDocumentMoniker": "Kutyak\\KutyaNev.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaNev.cs",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaNev.cs",
               "RelativeToolTip": "Kutyak\\KutyaNev.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Kutyak\\MainWindow.xaml",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml",
               "RelativeToolTip": "Kutyak\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-13T10:45:10.685Z",
@@ -72,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Kutyak\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\MainWindow.xaml.cs",
               "RelativeToolTip": "Kutyak\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA5wBsAAABEAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwEAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T10:45:07.771Z",
               "EditorCaption": ""
@@ -87,9 +87,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "KutyaFajta.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaFajta.cs",
+              "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaFajta.cs",
               "RelativeDocumentMoniker": "Kutyak\\KutyaFajta.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Szakacs Tamas 12.C\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaFajta.cs",
+              "ToolTip": "C:\\Users\\szakt\\Desktop\\Suli2024.2025\\aaf2024-2025\\Kutyak\\Kutyak\\KutyaFajta.cs",
               "RelativeToolTip": "Kutyak\\KutyaFajta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
